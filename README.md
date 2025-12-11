@@ -30,3 +30,13 @@ Note文件夹中包含Cherno和LearnOpenGL的笔记
 - AdvanceLighting: Blinn-Phong, Gamma Correct, ShadowMap, NormalMap, ParallaxMap, HDR, Bloom, Deferred Shading, SSAO
 - PBR
 - Custom: IMGUI, FPS, TessellationShader, Debugging
+
+# Effect Cut
+## MultipleLights
+<img width="2400" height="1800" alt="6 Multiple Lights_image_1" src="https://github.com/user-attachments/assets/6821b5a1-a584-416c-8173-9b1030e8d6a0" />
+## MeshLoading and Lighting
+<img width="2400" height="1777" alt="3 Model_image_1" src="https://github.com/user-attachments/assets/1d292437-2dbc-49ad-b9c6-4d16eb08c3ee" />
+<img width="2400" height="1800" alt="3 Model_image_2" src="https://github.com/user-attachments/assets/e0be0a5b-968a-4ed7-9a1e-c6ab0089a3d6" />
+## SSAO
+
+
