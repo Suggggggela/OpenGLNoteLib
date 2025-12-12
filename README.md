@@ -1,24 +1,24 @@
-# OpenGLNoteLib
+OpenGLNoteLib
 Note文件夹中包含Cherno和LearnOpenGL的笔记 *注意*：笔记使用Obsidian编写，github某些格式可能识别有问题
-# Effect ShotCut
-## StencilTest
+ Effect ShotCut
+StencilTest
 <img width="1920" height="1080" alt="2 Stencil Test_image_2" src="https://github.com/user-attachments/assets/cbbc8a77-b4bf-4383-9f3d-aef232619090" />
-## Blending
+ Blending
 <img width="2400" height="1722" alt="3 Blending_image_4" src="https://github.com/user-attachments/assets/e738aea5-c835-4cbd-886e-c4de16495b87" />
-## FrameBuffer
+ FrameBuffer
 后视镜
 <img width="2400" height="1722" alt="5 FrameBuffer_image_1" src="https://github.com/user-attachments/assets/59fc2248-d7ea-412c-984f-86b454181da8" />
-## CubeMap
+ CubeMap
 <img width="1460" height="1340" alt="6 CubeMap_image_4" src="https://github.com/user-attachments/assets/462accd8-4b10-4b9d-9f09-f9661aca5ef2" />
-## GeometryShader
+ GeometryShader
 NormalVisilize
 <img width="1250" height="1432" alt="9 GeometryShader_image_5" src="https://github.com/user-attachments/assets/9b7fd638-0b0c-4fa1-9549-97ea26468367" />
-## Instancing
+ Instancing
 <img width="2400" height="1800" alt="10 Instancing_image_1" src="https://github.com/user-attachments/assets/a00be5ac-df7d-4ccb-aea6-7134aa1aed49" />
 ![Uploading 10.Instancing_image_2.png…]()
-## ShadowMap
+ ShadowMap
 <img width="2400" height="1800" alt="3 ShadowMapping_image_16" src="https://github.com/user-attachments/assets/5b976e2e-1545-42eb-a773-3b652ff75291" />
-## ParallaxMapping
+ ParallaxMapping
 ParallaxMapping：
 <video src="https://github.com/user-attachments/assets/08ad2543-f1d9-4cf2-a7f7-4d896d8ac6ec">
 Steep Parallax Mapping:
@@ -27,23 +27,23 @@ Parallax Occlusion Mapping:
 <img width="5808" height="2318" alt="5 ParallaxMapping_image_10" src="https://github.com/user-attachments/assets/e4d8529b-921b-4a5d-bf15-1b856b4b027f" />
 Relief Parallax Mapping:
 <video src="https://github.com/user-attachments/assets/be3948f7-1778-408a-9513-59c0f96fc688">
-## HDR
+ HDR
 <img width="5195/2" height="4237/2" alt="6 HDR_image_3" src="https://github.com/user-attachments/assets/294941ec-4b3c-4dc2-9add-2448487a414e" />
 <img width="4967" height="3840" alt="6 HDR_image_4" src="https://github.com/user-attachments/assets/94de971f-6b82-4e7c-b710-d9323f73a50c" />
 <video src="https://github.com/user-attachments/assets/456f91a4-5922-4e32-8aa2-16e7852bd629">
-## Bloom
+ Bloom
 <video src="https://github.com/user-attachments/assets/2fba94a5-cb42-494e-8721-b0a9ee37d48f">
-## SSAO
+ SSAO
 <video src="https://github.com/user-attachments/assets/0a34df1d-2abe-46aa-b9fb-59d6e99f40e5">
-## Deferred Shading
+ Deferred Shading
 <img width="1636" height="1238" alt="8 Deferred Shading_image_5" src="https://github.com/user-attachments/assets/bb1eec6a-8c3b-402c-8481-b24136ad645a" />
 <img width="800" height="600" alt="8 Deferred Shading_image_7" src="https://github.com/user-attachments/assets/b2d8b6ae-a405-4cb1-94a9-25d50a015107" />
 
-## TessellationShader
+ TessellationShader
 <img width="2400" height="1722" alt="3 TessellationShader_image_1" src="https://github.com/user-attachments/assets/7d0bad11-c96b-41d3-98dc-6ad0194f9211" />
 
-# NoteIndex
-## Cherno
+ NoteIndex
+ Cherno
 - Setting
 - Modern OpenGL
 - VertexBufferObject
@@ -62,7 +62,7 @@ Relief Parallax Mapping:
 - Render Multiple Objects
 - Test FrameWork
 - Batch Rendering
-## Learn OpenGL
+ Learn OpenGL
 - Basic : Creat Window, Draw Triangle, Shader, Texture, Transform, Camera
 - Lighting: Classic Lighting Model, Material, Light
 - ModelLoading: Assimp, Mesh, Model
