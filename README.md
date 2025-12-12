@@ -2,7 +2,7 @@
 Note文件夹中包含Cherno和LearnOpenGL的笔记 *注意*：笔记使用Obsidian编写，github某些格式可能识别有问题
 # Effect ShotCut
 ## StencilTest
-<img width="2400" height="1777" alt="2 Stencil Test_image_2" src="https://github.com/user-attachments/assets/cbbc8a77-b4bf-4383-9f3d-aef232619090" />
+<img width="1920" height="1080" alt="2 Stencil Test_image_2" src="https://github.com/user-attachments/assets/cbbc8a77-b4bf-4383-9f3d-aef232619090" />
 ## Blending
 <img width="2400" height="1722" alt="3 Blending_image_4" src="https://github.com/user-attachments/assets/e738aea5-c835-4cbd-886e-c4de16495b87" />
 ## FrameBuffer
