@@ -1,4 +1,4 @@
-<img width="1460" height="1340" alt="6 CubeMap_image_4" src="https://github.com/user-attachments/assets/b156649b-9432-4881-880e-b541fd5e2d85" /># OpenGLNoteLib
+# OpenGLNoteLib
 Note文件夹中包含Cherno和LearnOpenGL的笔记
 *注意*：笔记使用Obsidian编写，github某些格式可能识别有问题
 
