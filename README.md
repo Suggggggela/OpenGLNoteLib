@@ -1,36 +1,5 @@
 # OpenGLNoteLib
-Note文件夹中包含Cherno和LearnOpenGL的笔记
-*注意*：笔记使用Obsidian编写，github某些格式可能识别有问题
-
-# NoteIndex
-## Cherno
-- Setting
-- Modern OpenGL
-- VertexBufferObject
-- VertexAttribute, Layout
-- Shader
-- IndexBuffer(ElementBufferObject)
-- deal with error in OpenGL
-- Uniform
-- VertexArray
-- OpenGL Class Abstract
-- Renderer
-- Texture
-- Binding
-- Math,MVP
-- IMGUI
-- Render Multiple Objects
-- Test FrameWork
-- Batch Rendering
-## Learn OpenGL
-- Basic : Creat Window, Draw Triangle, Shader, Texture, Transform, Camera
-- Lighting: Classic Lighting Model, Material, Light
-- ModelLoading: Assimp, Mesh, Model
-- AdvanceOpenGL: DepthTest, Stencil Test, Blending, FaceCulling, FrameBuffer, CubeMap, Data, GLSL, GeometryShader, Instancing, AntiAliasing
-- AdvanceLighting: Blinn-Phong, Gamma Correct, ShadowMap, NormalMap, ParallaxMap, HDR, Bloom, Deferred Shading, SSAO
-- PBR
-- Custom: IMGUI, FPS, TessellationShader, Debugging
-
+Note文件夹中包含Cherno和LearnOpenGL的笔记 *注意*：笔记使用Obsidian编写，github某些格式可能识别有问题
 # Effect ShotCut
 ## StencilTest
 <img width="2400" height="1777" alt="2 Stencil Test_image_2" src="https://github.com/user-attachments/assets/cbbc8a77-b4bf-4383-9f3d-aef232619090" />
@@ -73,4 +42,31 @@ Relief Parallax Mapping:
 ## TessellationShader
 <img width="2400" height="1722" alt="3 TessellationShader_image_1" src="https://github.com/user-attachments/assets/7d0bad11-c96b-41d3-98dc-6ad0194f9211" />
 
-<video src="">
+# NoteIndex
+## Cherno
+- Setting
+- Modern OpenGL
+- VertexBufferObject
+- VertexAttribute, Layout
+- Shader
+- IndexBuffer(ElementBufferObject)
+- deal with error in OpenGL
+- Uniform
+- VertexArray
+- OpenGL Class Abstract
+- Renderer
+- Texture
+- Binding
+- Math,MVP
+- IMGUI
+- Render Multiple Objects
+- Test FrameWork
+- Batch Rendering
+## Learn OpenGL
+- Basic : Creat Window, Draw Triangle, Shader, Texture, Transform, Camera
+- Lighting: Classic Lighting Model, Material, Light
+- ModelLoading: Assimp, Mesh, Model
+- AdvanceOpenGL: DepthTest, Stencil Test, Blending, FaceCulling, FrameBuffer, CubeMap, Data, GLSL, GeometryShader, Instancing, AntiAliasing
+- AdvanceLighting: Blinn-Phong, Gamma Correct, ShadowMap, NormalMap, ParallaxMap, HDR, Bloom, Deferred Shading, SSAO
+- PBR
+- Custom: IMGUI, FPS, TessellationShader, Debugging
