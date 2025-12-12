@@ -39,10 +39,6 @@ Note文件夹中包含Cherno和LearnOpenGL的笔记
 <img width="2400" height="1800" alt="3 Model_image_2" src="https://github.com/user-attachments/assets/e0be0a5b-968a-4ed7-9a1e-c6ab0089a3d6" />
 
 ## SSAO
-
-<img width="2400" height="1800" alt="3 Model_image_2" src="[https://github.com/user-attachments/assets/e0be0a5b-968a-4ed7-9a1e-c6ab0089a3d6](https://github.com/user-attachments/assets/3a5347e4-a822-4e7d-b22a-44d85cf606b4)" />
-
-
-
+<video src="https://github.com/user-attachments/assets/0a34df1d-2abe-46aa-b9fb-59d6e99f40e5">
 
 
