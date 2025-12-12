@@ -37,8 +37,11 @@ Note文件夹中包含Cherno和LearnOpenGL的笔记
 ## MeshLoading and Lighting
 <img width="2400" height="1777" alt="3 Model_image_1" src="https://github.com/user-attachments/assets/1d292437-2dbc-49ad-b9c6-4d16eb08c3ee" />
 <img width="2400" height="1800" alt="3 Model_image_2" src="https://github.com/user-attachments/assets/e0be0a5b-968a-4ed7-9a1e-c6ab0089a3d6" />
+
 ## SSAO
-https://github.com/user-attachments/assets/3a5347e4-a822-4e7d-b22a-44d85cf606b4
+
+<img width="2400" height="1800" alt="3 Model_image_2" src="[https://github.com/user-attachments/assets/e0be0a5b-968a-4ed7-9a1e-c6ab0089a3d6](https://github.com/user-attachments/assets/3a5347e4-a822-4e7d-b22a-44d85cf606b4)" />
+
 
 
 
