@@ -1,7 +1,8 @@
 # OpenGLNoteLib
 
 Note文件夹中包含Cherno和LearnOpenGL的笔记 
-  *注意*：笔记使用Obsidian编写，github某些格式可能识别有问题，推荐pull下来使用Obsidian观看
+
+*注意*：笔记使用Obsidian编写，github某些格式可能识别有问题，推荐pull下来使用Obsidian观看
 
  ## NoteIndex
  Cherno
