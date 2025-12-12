@@ -39,14 +39,6 @@ Note文件夹中包含Cherno和LearnOpenGL的笔记
 ## MultipleLights
 <img width="2400" height="1800" alt="6 Multiple Lights_image_1" src="https://github.com/user-attachments/assets/6821b5a1-a584-416c-8173-9b1030e8d6a0" />
 
-## MeshLoading and Lighting
-<img width="2400" height="1777" alt="3 Model_image_1" src="https://github.com/user-attachments/assets/1d292437-2dbc-49ad-b9c6-4d16eb08c3ee" />
-<img width="2400" height="1800" alt="3 Model_image_2" src="https://github.com/user-attachments/assets/e0be0a5b-968a-4ed7-9a1e-c6ab0089a3d6" />
-
-## DepthTest
-<img width="1103" height="829" alt="1 Depth Test_image_3" src="https://github.com/user-attachments/assets/270bdb22-34f4-47c4-8a1b-4a501ad3e697" />
-<img width="1096" height="822" alt="1 Depth Test_image_4" src="https://github.com/user-attachments/assets/c8ea1a51-3a6d-44c6-9298-a6ee0ecc76d9" />
-
 ## StencilTest
 <img width="2400" height="1777" alt="2 Stencil Test_image_2" src="https://github.com/user-attachments/assets/cbbc8a77-b4bf-4383-9f3d-aef232619090" />
 
@@ -84,7 +76,6 @@ NormalVisilize
 <img width="2400" height="1777" alt="4 Normal Mapping_image_14" src="https://github.com/user-attachments/assets/953bf874-21c3-49ee-870b-bb733d28a8ff" />
 
 ## ParallaxMapping
-
 ParallaxMapping：
 <video src="https://github.com/user-attachments/assets/08ad2543-f1d9-4cf2-a7f7-4d896d8ac6ec">
 
