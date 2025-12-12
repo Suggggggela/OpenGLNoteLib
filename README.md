@@ -72,10 +72,10 @@ Parallax Occlusion Mapping:
 <img width="5808" height="2318" alt="5 ParallaxMapping_image_10" src="https://github.com/user-attachments/assets/e4d8529b-921b-4a5d-bf15-1b856b4b027f" />
 
 Relief Parallax Mapping:
-<video src="https://github.com/user-attachments/assets/a9d6c1c6-5ad7-4ff5-842f-ab75d36c8e7b">
+<video src="https://github.com/user-attachments/assets/be3948f7-1778-408a-9513-59c0f96fc688">
 
 ## HDR
-<img width="5195" height="4237" alt="6 HDR_image_3" src="https://github.com/user-attachments/assets/294941ec-4b3c-4dc2-9add-2448487a414e" />
+<img width="5195/2" height="4237/2" alt="6 HDR_image_3" src="https://github.com/user-attachments/assets/294941ec-4b3c-4dc2-9add-2448487a414e" />
 <img width="4967" height="3840" alt="6 HDR_image_4" src="https://github.com/user-attachments/assets/94de971f-6b82-4e7c-b710-d9323f73a50c" />
 <video src="https://github.com/user-attachments/assets/456f91a4-5922-4e32-8aa2-16e7852bd629">
 
