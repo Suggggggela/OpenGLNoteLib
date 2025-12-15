@@ -6,19 +6,13 @@ Note文件夹中包含Cherno和LearnOpenGL的笔记
 
  ## NoteIndex
  Cherno
-- Setting
-- Modern OpenGL
-- VertexBufferObject
-- VertexAttribute, Layout
-- Shader
-- IndexBuffer(ElementBufferObject)
+- Setting，Modern OpenGL
+- VertexBufferObject，vertexAttribute, Layout，Shader，IndexBuffer(ElementBufferObject)
 - deal with error in OpenGL
 - Uniform
 - VertexArray
-- OpenGL Class Abstract
-- Renderer
-- Texture
-- Binding
+- OpenGL Class Abstract，Renderer
+- Texture，Binding
 - Math,MVP
 - IMGUI
 - Render Multiple Objects
