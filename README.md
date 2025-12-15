@@ -63,6 +63,4 @@ Relief Parallax Mapping:
 <img width="800" height="600" alt="8 Deferred Shading_image_7" src="https://github.com/user-attachments/assets/b2d8b6ae-a405-4cb1-94a9-25d50a015107" />
 
  TessellationShader
-<img width="2400" height="1722" alt="3 TessellationShader_image_1" src="https://github.com/user-attachments/assets/7d0bad11-c96b-41d3-98dc-6ad0194f9211" />
-
 <video src="https://github.com/user-attachments/assets/76545414-f467-4992-891a-fe86926548b4">
