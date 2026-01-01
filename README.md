@@ -36,7 +36,7 @@ StencilTest
 <img width="1460" height="1340" alt="6 CubeMap_image_4" src="https://github.com/user-attachments/assets/462accd8-4b10-4b9d-9f09-f9661aca5ef2" />
 
  GeometryShader
-NormalVisilize
+NormalVisualize
 <img width="1250" height="1432" alt="9 GeometryShader_image_5" src="https://github.com/user-attachments/assets/9b7fd638-0b0c-4fa1-9549-97ea26468367" />
 
  Instancing
